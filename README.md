@@ -18,8 +18,8 @@ I'm a self-taught developer with a passion for technology that started at a youn
 
 ### 🛠️ My Tech Stack
 
-- Frontend: React, Javascript/TypeScript, PHP/Laravel
-- Backend: Laravel, PHP
+- Frontend: React, Javascript/TypeScript, Node.js, PHP/Laravel
+- Backend: Laravel, PHP, Node.js
 - Database: MongoDB PostgreSQL
 - IDE: Visual Studio Code, PHPStorm
 
