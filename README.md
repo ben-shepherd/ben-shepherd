@@ -53,8 +53,3 @@ I'm a self-taught developer with a passion for technology that started at a youn
 - 🎸 Avid music lover and gamer
 - 🐾 Animal lover
 - 🤓 Certified dork
-
----
-
-⭐️ From [Benjamin](https://github.com/ben-shepherd)
-
