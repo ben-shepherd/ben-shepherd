@@ -1,3 +1,4 @@
+<div align="center">
 
 # 👋 Hi, I'm Benjamin!
 
@@ -9,6 +10,11 @@
 ## 💻 Full Stack Developer | Enthusiast | Problem Solver
 
 I'm a self-taught developer with a passion for technology that started at a young age. I love building logical solutions and solving complex problems through code.
+
+
+</div>
+
+---
 
 ### 🛠️ My Tech Stack
 
@@ -73,4 +79,5 @@ I'm a self-taught developer with a passion for technology that started at a youn
 
 ---
 
-⭐️ From [Benjamin](https://github.com/yourusername)
+⭐️ From [Benjamin](https://github.com/ben-shepherd)
+
