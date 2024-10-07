@@ -13,9 +13,9 @@
 - 🌱 I'm improving my TypeScript knowledge
 - 👯 I'm keeping up to date with the latest standards
 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21zajUycHZrMDQxanByZ2NtZ2p1aXltaHRweWQwNG5obXAxcm5nNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0He4nkyI5cMhXzvW/giphy.gif" width="300"/>
-</div>
+- <div id="header" align="center">
+- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21zajUycHZrMDQxanByZ2NtZ2p1aXltaHRweWQwNG5obXAxcm5nNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0He4nkyI5cMhXzvW/giphy.gif" width="300"/>
+- </div>
 
 ### 📊 GitHub Stats
 
