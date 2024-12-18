@@ -2,14 +2,14 @@
 
 ### 🛠️ My Tech Stack
 
-Frontend: React, Javascript/TypeScript, Node.js, PHP/Laravel  
+Frontend: React, JavaScript/TypeScript, Node.js, PHP/Laravel  
 Backend: Laravel, PHP, Node.js  
 Database: MongoDB PostgreSQL  
-IDE: Visual Studio Code, PHPStorm
+IDE: Cursor, Visual Studio Code, PHPStorm
 
 ### 🌟 What I'm up to
 
-🔭 I'm currently working on open source project called Larascript Node  
+🔭 I'm currently working on open source project called Larascript Framework  
 🌱 I'm improving my TypeScript knowledge  
 👯 I'm keeping up to date with the latest standards
 
