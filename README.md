@@ -2,11 +2,15 @@
 
 ### 🛠️ My Tech Stack
 
-Frontend: React, JavaScript, TypeScript, Node.js, PHP/Laravel  
+Frontend: React, JavaScript, TypeScript, Node.js, PHP/Laravel 
+
 Backend: Laravel, PHP, Node.js  
+
 Database: MongoDB PostgreSQL  
-DevOps: Ubuntu, Docker
-IDE: Cursor, Visual Studio Code, PHPStorm
+
+DevOps: Ubuntu, Docker 
+
+IDE: Cursor, Visual Studio Code, PHPStorm 
 
 ### 🌟 What I'm up to
 
